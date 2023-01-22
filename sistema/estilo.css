@@ -1,0 +1,74 @@
+* {
+	font-family: Arial;
+}
+
+header, footer {
+	background-color: #356345;
+	padding: 3%;
+	color: white;
+	font-size: 18px;
+}
+
+body {
+	background-color: #EBF3EE;
+
+}
+
+a:link { 
+        color: white; 
+}
+
+a:hover { 
+    color: #C1FF83; 
+    font-size: 20px;
+}
+
+
+.formulario_alinhado{
+	padding-left: 8%;
+	padding-bottom: 8%;
+	padding-right: 80%;
+	padding-top: 7%;
+	border-radius: 10px;
+}
+
+legend {
+	font-size: 190%;
+	color: #356345;
+}
+
+input {
+	border-radius: 10px;
+}
+
+a:visited{
+	color: #FEFFC1;
+	font-size: 19px;
+}
+
+label {
+	font-size: 17px;
+	color: #356345;
+}
+
+button {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: #F6F6F6;
+	color: #356345;
+	border-radius: 20px;
+	font-size: 20px;
+
+}
+
+table, th, td {
+	border: 1px solid;
+	border-collapse: collapse;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	padding-right: 30px;
+	background-color: #F6F6F6 ;
+	margin: 2%;
+}
