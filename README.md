@@ -44,7 +44,3 @@ Abaixo os dados para testar a conexão com o banco de dados:
 - database: ist
 - user: root
 - password: 123.456
-
-**Atenção:** Ao publicar fique atento ao para mandar no repositorio compartilhado com você e não no pessoal.
-
-No mais, desenvolva com qualidade e boa prova! :)
